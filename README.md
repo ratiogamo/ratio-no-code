@@ -1,1 +1,30 @@
-IyBSYXRpb05vQ29kZQoKIyMgQWJvdXQKUmF0aW9Ob0NvZGUgaXMgYW4gaW5ub3ZhdGl2ZSBuby1jb2RlIHBsYXRmb3JtIHRoYXQgZW1wb3dlcnMgdXNlcnMgdG8gYnVpbGQgcHJvZmVzc2lvbmFsIGFwcGxpY2F0aW9ucyB3aXRob3V0IHdyaXRpbmcgdHJhZGl0aW9uYWwgY29kZS4gQnkgbGV2ZXJhZ2luZyB0aGUgcG93ZXIgb2YgQUkgYW5kIGludHVpdGl2ZSB2aXN1YWwgZGV2ZWxvcG1lbnQgdG9vbHMsIHdlIG1ha2UgYXBwbGljYXRpb24gZGV2ZWxvcG1lbnQgYWNjZXNzaWJsZSB0byBldmVyeW9uZS4KCiMjIEZlYXR1cmVzCi0g8J+MqCBWaXN1YWwgRGV2ZWxvcG1lbnQgSW50ZXJmYWNlCi0g8J+lqiBBSS1Qb3dlcmVkIEFzc2lzdGFuY2UKLSDwn5OxIFJlc3BvbnNpdmUgRGVzaWduIFRvb2xzCi0g8J+UjiBQcmUtYnVpbHQgSW50ZWdyYXRpb25zCi0g8J+aqCBPbmUtQ2xpY2sgRGVwbG95bWVudAotIPCfm6wgQ3VzdG9tIENvbXBvbmVudCBMaWJyYXJ5CgojIyBHZXR0aW5nIFN0YXJ0ZWQKMS4gU2lnbiB1cCBhdCByYXRpb25vY29kZS5jb20KMi4gQ2hvb3NlIGZyb20gb3VyIHRlbXBsYXRlIGxpYnJhcnkgb3Igc3RhcnQgZnJvbSBzY3JhdGNoCjMuIEJ1aWxkIHlvdXIgYXBwbGljYXRpb24gdXNpbmcgb3VyIHZpc3VhbCBlZGl0b3IKNC4gRGVwbG95IHdpdGggYSBzaW5nbGUgY2xpY2sKCiMjIFdoeSBSYXRpb05vQ29kZT8KLSAqKlNwZWVkKio6IEJ1aWxkIGFwcGxpY2F0aW9ucyAxMHggZmFzdGVyIHRoYW4gdHJhZGl0aW9uYWwgY29kaW5nCi0gKipGbGV4aWJpbGl0eSoqOiBDdXN0b21pemUgZXZlcnkgYXNwZWN0IG9mIHlvdXIgYXBwbGljYXRpb24KLSAqKlNjYWxhYmlsaXR5Kio6IEVudGVycHJpc2UtZ3JhZGUgaW5mcmFzdHJ1Y3R1cmUgYnVpbHQtaW4KLSAqKkNvc3QtRWZmZWN0aXZlKio6IFJlZHVjZSBkZXZlbG9wbWVudCBjb3N0cyBzaWduaWZpY2FudGx5CgojIyBTdXBwb3J0ClZpc2l0IG91ciBbZG9jdW1lbnRhdGlvbl0oaHR0cHM6Ly9kb2NzLnJhdGlvbm9jb2RlLmNvbSkgb3IgY29udGFjdCBzdXBwb3J0QHJhdGlvbm9jb2RlLmNvbSBmb3IgYXNzaXN0YW5jZS4KCiMjIExpY2Vuc2UKTUlUIExpY2Vuc2UgLSBTZWUgTElDRU5TRSBmaWxlIGZvciBkZXRhaWxz
+# RatioNoCode
+
+## About
+RatioNoCode is an innovative no-code platform that empowers users to build professional applications without writing traditional code. By leveraging the power of AI and intuitive visual development tools, we make application development accessible to everyone.
+
+## Features
+- 🎨 Visual Development Interface
+- 🤖 AI-Powered Assistance
+- 📱 Responsive Design Tools
+- 🔌 Pre-built Integrations
+- 🚀 One-Click Deployment
+- 🛠️ Custom Component Library
+
+## Getting Started
+1. Sign up at rationocode.com
+2. Choose from our template library or start from scratch
+3. Build your application using our visual editor
+4. Deploy with a single click
+
+## Why RatioNoCode?
+- **Speed**: Build applications 10x faster than traditional coding
+- **Flexibility**: Customize every aspect of your application
+- **Scalability**: Enterprise-grade infrastructure built-in
+- **Cost-Effective**: Reduce development costs significantly
+
+## Support
+Visit our [documentation](https://docs.rationocode.com) or contact support@rationocode.com for assistance.
+
+## License
+MIT License - See LICENSE file for details
